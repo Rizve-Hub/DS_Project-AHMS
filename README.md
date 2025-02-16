@@ -4,7 +4,7 @@
 The **Arch Hospital Management System** is a project developed using the C programming language for our Data Structure course. This system aims to streamline various hospital management processes, such as managing doctor information, booking appointments, and handling payments. The project leverages key data structure concepts to provide efficient and reliable functionality.
 
 ## Team Members
-- **Leader & Lead Developer:** Kh. Rizve reza  
+- **Leader & Lead Developer:** Kh. Rizve Reza  
 - **Assistant Developer:** Fahad Sarkar  
 - **UI/UX Designer:** Mahmudul Hasan 
 - **Marketing Manager:** Satu Bhowmik
